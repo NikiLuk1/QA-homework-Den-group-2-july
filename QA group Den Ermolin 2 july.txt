@@ -1,1 +1,1 @@
-Hello Denis ! This message typed by vim! 
+Hello Denis ! This message typed by vim! Hello World! (LMS says this)
