@@ -1,1 +1,0 @@
-Hello Denis ! This message typed by vim! 
